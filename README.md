@@ -3,10 +3,10 @@ Peer-to-peer systems can be of a very large scale such as millions of nodes, whi
 
 
 Libraries Used:
----SimPy
----Pygraphviz
----matplotlib
----networkx
+SimPy
+,Pygraphviz
+,matplotlib
+,networkx
 
 
 The above repository contains Simulations with 25,30,35,40,50 peers.
