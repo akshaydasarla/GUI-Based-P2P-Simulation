@@ -9,4 +9,4 @@ SimPy
 ,networkx
 
 
-The above repository contains Simulations with 25,30,35,40,50 peers.
+The above repository contains Simulations with 25,30,40,50,100 peers.
